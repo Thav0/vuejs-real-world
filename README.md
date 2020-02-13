@@ -1,5 +1,3 @@
-# VueJS Real World App
-
 # What I've learned here
 
 ## VUE CLI 3
