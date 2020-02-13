@@ -2,12 +2,12 @@
 
 # What I've learned here
 
-##VUE CLI 3
+## VUE CLI 3
 - Creating projects
 - Using Vue UI
 - Configuring presets like babel  eslint
 
-##VS Code Optimization
+## VS Code Optimization
 - Get syntax highlighting in our .vue files
 - Utilize code snippets for a faster workflow
 - Configure our editor to auto-format our code
